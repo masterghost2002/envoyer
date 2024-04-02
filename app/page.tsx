@@ -23,7 +23,7 @@ export default function Home() {
               <div className="w-[12px] h-[12px] bg-gray-700 rounded-full" />
               <div className="w-[3px] flex-1 bg-gray-700" />
             </div>
-            <span className="text-[32px] md:text-[44px]">Bulk <span className="italic underline decoration-wavy decoration-gray-800">email's</span></span>
+            <span className="text-[32px] md:text-[44px]">Bulk <span className="italic underline decoration-wavy decoration-gray-800">email&aposs</span></span>
           </div>
           <div className="flex gap-[24px]">
             <div className="flex flex-col justify-center items-center">
