@@ -1,0 +1,9 @@
+echo '🏗️👷 Styling, testing and building your project before committing'
+
+# Check Prettier standards
+yarn run prettier:check ||
+(
+    echo '😔😔😔 Prettier check failed, please run yarn run prettier, and try commit again.';
+    exit 1;
+)
+
